@@ -10,5 +10,7 @@ public class MainMenu : MonoBehaviour
     SceneManager.LoadScene("Racing Track");
     }
 
+
+
    
 }
